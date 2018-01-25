@@ -1,0 +1,139 @@
+.header {
+	background-color: #f7f7f7;
+	padding: 15px;
+}
+.main {
+	background-color: purple;
+	padding: 20px;
+}
+.headers_main {
+	background-color: #b5b5b5;
+	margin: 0;
+	padding: 5px;
+}
+.img_of_me {
+	height: 40%;
+	width: 47%;
+	border-style: solid;
+	border-width: 5px;
+	border-color: silver;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+.about {
+	background-color: #f7f7f7;
+	vertical-align: top;
+	width: 47%;
+	display: inline-block;
+	margin-right: 0;
+}
+.about_inside {
+	padding: 5px 5px 55px 5px;
+	background: linear-gradient(to right, white, purple);
+	margin: 0;
+}
+.la_mode{
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 23px;
+}
+.inside_la_mode {
+	padding: 5px 5px 130px 5px;
+	background: linear-gradient(to right, white, purple);
+	margin: 0;
+}
+.family_contacts {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 23px;
+}
+.inside_famliy_contacts {
+	padding: 5px 5px 57px 5px;
+	background: linear-gradient(to right, white, purple);
+	margin: 0;
+}
+.fiveEleven {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+}
+.inside_fiveEleven {
+	background: linear-gradient(to right, white, purple);
+	margin: 0;
+	padding: 5px;
+}
+.img_lvl_2 {
+	display: block;
+	height: 30%;
+	width: 100%;
+}
+.footer {
+	background-color: #f7f7f7;
+	padding: 10px;
+	height: 40%;
+}
+.name_and_number {
+	width: 100%;
+	text-align: center;
+	margin: 0 auto 20px auto;
+}
+.social_media {
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+.img_small {
+	height: 20px;
+	width: 20px;
+	vertical-align: middle;
+}
+.img_med {
+	height: 35px;
+	width: 35px;
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.p_about_inside {
+	display: block;
+	margin: 0
+	background: linear-gradient(to right, white, purple);
+}
+.icon_container {
+	background: linear-gradient(to right, white, purple);
+	padding: 10px;
+}
+.button_container {
+	background: linear-gradient(to right, white, purple);
+	text-align: center;
+	margin: 0 auto;
+}
+.button {
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+	border-color: black;
+	margin-bottom: 10px;
+}
+.other {
+	display: inline-block;
+}
+h2 {
+	display: inline;
+	font-family: verdana;
+	margin-right: 55%;
+}
+p {
+	display: block;
+	font-family: helvetica;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+a {
+	color: black;
+	vertical-align: middle;
+}
